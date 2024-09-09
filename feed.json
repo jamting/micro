@@ -1,19 +1,27 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "Mattias Micro Blog",
+	"title": "Mattias μBlog",
 	"icon": "https://micro.blog/mattias/avatar.jpg",
 	"home_page_url": "https://mattias.micro.blog/",
 	"feed_url": "https://mattias.micro.blog/feed.json",
 	"items": [
 		
 			{
-				"id": "http://mattias.micro.blog/2024/07/05/first-trip-with.html",
+				"id": "http://mattias.micro.blog/2024/09/09/middag-p-muurikan.html",
 				
-				"content_html": "<p>First trip with son ❤️</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "First trip with son ❤️\n\n<img src=\"uploads/2024/img-6571.png\" width=\"600\" height=\"429\" alt=\"\"><img src=\"uploads/2024/img-6570.png\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>Middag på Muurikan ⛺️</p>\n",
+				"content_text": "Middag på Muurikan ⛺️\n",
+				"date_published": "2024-09-09T21:36:01+02:00",
+				"url": "https://mattias.micro.blog/2024/09/09/middag-p-muurikan.html"
+			},
+			{
+				"id": "http://mattias.micro.blog/2024/07/05/first-trip-with.html",
+				"title": "First motorcycle trip with John",
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>❤️</p>\n",
+				"content_text": "<img src=\"uploads/2024/img-6571.png\" width=\"600\" height=\"429\" alt=\"\"><img src=\"uploads/2024/img-6570.png\" width=\"600\" height=\"450\" alt=\"\">\n\n❤️\n",
 				"date_published": "2024-07-05T23:32:31+02:00",
 				"url": "https://mattias.micro.blog/2024/07/05/first-trip-with.html",
-				"tags": ["Photos"]
+				"tags": ["Photos","MC"]
 			},
 			{
 				"id": "http://mattias.micro.blog/2024/05/04/debut.html",
@@ -151,9 +159,9 @@
 			},
 			{
 				"id": "http://mattias.micro.blog/2023/03/06/222200.html",
-				
+				"title": "Winter now",
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2023/c335848e3f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "<img src=\"uploads/2023/c335848e3f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-03-06T22:22:00+02:00",
 				"url": "https://mattias.micro.blog/2023/03/06/222200.html",
 				"tags": ["Photos"]
@@ -170,11 +178,11 @@
 			{
 				"id": "http://mattias.micro.blog/2019/05/04/out-and-about.html",
 				"title": "Out and about",
-				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>English speakers will be pleased to learn that the name of the place translates to ”cape of throw a log”.</p>",
-				"content_text": "<img src=\"uploads/2019/2a65be9ee6.jpg\" /></a>\n\n<!--more-->\n\nEnglish speakers will be pleased to learn that the name of the place translates to ”cape of throw a log”.\n\n\n",
+				"content_html": "<!-- raw HTML omitted -->\n<p>English speakers will be pleased to learn that the name of the place translates to ”cape of throw a log”.</p>\n",
+				"content_text": "<img src=\"uploads/2019/2a65be9ee6.jpg\" />\n\nEnglish speakers will be pleased to learn that the name of the place translates to ”cape of throw a log”.\n\n\n",
 				"date_published": "2019-05-04T16:47:00+02:00",
 				"url": "https://mattias.micro.blog/2019/05/04/out-and-about.html",
-				"tags": ["Photos","Adventure"]
+				"tags": ["Photos","Adventure","MC"]
 			},
 			{
 				"id": "http://mattias.micro.blog/2019/03/30/microbloggin.html",
