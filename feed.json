@@ -7,12 +7,13 @@
 	"items": [
 		
 			{
-				"id": "http://mattias.micro.blog/2024/09/09/middag-p-muurikan.html",
+				"id": "http://mattias.micro.blog/2024/09/09/making-dinner-on.html",
 				
-				"content_html": "<p>Middag på Muurikan ⛺️</p>\n",
-				"content_text": "Middag på Muurikan ⛺️\n",
-				"date_published": "2024-09-09T21:36:01+02:00",
-				"url": "https://mattias.micro.blog/2024/09/09/middag-p-muurikan.html"
+				"content_html": "<p>Making dinner on the Muurika ⛺️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Making dinner on the Muurika ⛺️\n\n<img src=\"uploads/2024/kari-muurika.png\" width=\"600\" height=\"799\" alt=\"\">\n",
+				"date_published": "2024-09-09T22:01:53+02:00",
+				"url": "https://mattias.micro.blog/2024/09/09/making-dinner-on.html",
+				"tags": ["Photos","Adventure"]
 			},
 			{
 				"id": "http://mattias.micro.blog/2024/07/05/first-trip-with.html",
